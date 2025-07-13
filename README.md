@@ -39,7 +39,7 @@
 ## 📚 Related Projects
 
 - [FastCog](https://dca.globalstatsol.com) – Digital Cognitive Assessment Platform
-- [STAI](https://your-STAI-link.com) – AI for Trial Intelligence
+- [STAI](https://stai.globalstatsol.com) – AI for Trial Intelligence
 
 ---
 
