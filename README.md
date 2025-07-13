@@ -16,7 +16,7 @@
 
 ## 📷 Preview
 
-![ClinicalStatAI Preview](images/clinicalstatai-preview.jpg)
+![ClinicalStatAI Preview](https://stai.globalstatsol.com)
 
 ---
 
@@ -34,12 +34,7 @@
 
 > 🔐 _Private beta. Please contact `research@globalstatsol.com` for access._
 
----
 
-## 📚 Related Projects
-
-- [FastCog](https://dca.globalstatsol.com) – Digital Cognitive Assessment Platform
-- [STAI](https://stai.globalstatsol.com) – AI for Trial Intelligence
 
 ---
 
