@@ -1,6 +1,6 @@
 # ClinicalStatAI-platform
 
-**ClinicalStatAI** is an AI-powered platform for advanced clinical data analytics (https://www.stai.globalstatsol.com), built to support real-time insights in clinical trials and health research. Developed by [GlobalStat Intelligence Solutions Ltd](https://www.globalstatsol.com), ClinicalStatAI enables data-driven decision-making across regulatory, academic, and pharmaceutical domains.
+**ClinicalStatAI** is an AI-powered platform for advanced clinical data analytics (https://www.stai.globalstatsol.com), built to support real-time insights in clinical trials and health research. Developed by [GlobalStat Intelligence Solutions Ltd](https://www.globalstatsol.com), ClinicalStatAI enables data-driven decision-making across regulatory, academic, and pharmaceutical domains....
 
 ---
 
